@@ -1,3 +1,79 @@
 [
-
+  {
+    "comment": "Chamber of Representatives",
+    "house_item_id": "Q1347545",
+    "position_item_id": "Q15705021",
+    "terms": [
+      {
+        "comment": "54th legislative term of the Chamber of Representatives of Belgium, 2014-2019",
+        "term_item_id": "Q17173094"
+      }
+    ]
+  },
+  {
+    "comment": "Belgian Senate",
+    "house_item_id": "Q1355042",
+    "position_item_id": "Q17619252",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Parliament of the German-speaking Community",
+    "house_item_id": "Q2200734",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Parliament of Wallonia",
+    "house_item_id": "Q2449493",
+    "position_item_id": "Q19351455",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Parliament of the French Community",
+    "house_item_id": "Q2477569",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Parliament of the Brussels-Capital Region",
+    "house_item_id": "Q435623",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Flemish Parliament",
+    "house_item_id": "Q1292",
+    "position_item_id": "Q15105064",
+    "terms": [
+      {
+        "comment": "list of members of the Flemish Parliament, 2014–19",
+        "term_item_id": "Q16969117"
+      }
+    ]
+  }
 ]
