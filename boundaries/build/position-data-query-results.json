@@ -1,0 +1,451 @@
+{
+  "head": {
+    "vars": [
+      "position",
+      "position_name_de",
+      "position_name_fr",
+      "position_name_nl",
+      "position_name_en",
+      "positionType",
+      "adminAreaTypes",
+      "adminArea",
+      "admin_area_de",
+      "admin_area_fr",
+      "admin_area_nl",
+      "admin_area_en",
+      "positionSuperclass",
+      "position_superclass_de",
+      "position_superclass_fr",
+      "position_superclass_nl",
+      "position_superclass_en",
+      "body",
+      "body_de",
+      "body_fr",
+      "body_nl",
+      "body_en"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "position_name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämische Gemeinschaft"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Communauté flamande"
+        },
+        "admin_area_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaamse Gemeenschap"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Community"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "position_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "body_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15705021"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der belgischen Abgeordnetenkammer"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député"
+        },
+        "position_name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "lid van de Kamer van Volksvertegenwoordigers van België"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Chamber of Representatives of Belgium"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Belgien"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Belgique"
+        },
+        "admin_area_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "België"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Belgium"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "position_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1347545"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Belgische Abgeordnetenkammer"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Chambre des représentants"
+        },
+        "body_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Kamer van Volksvertegenwoordigers"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chamber of Representatives"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17619252"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senator"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "sénateur"
+        },
+        "position_name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Belgisch senator"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senator of Belgium"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Belgien"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Belgique"
+        },
+        "admin_area_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "België"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Belgium"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15686806"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senator"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "sénateur"
+        },
+        "position_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "senator"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1355042"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senat"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sénat"
+        },
+        "body_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Belgische Senaat"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Belgian Senate"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19351455"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député wallon"
+        },
+        "position_name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Waals Parlementslid"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Parliament of Wallonia"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q231"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Wallonische Region"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Région wallonne"
+        },
+        "admin_area_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Waals Gewest"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wallonia"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "position_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2449493"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Wallonisches Parlament"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement de Wallonie"
+        },
+        "body_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Parlement van Wallonië"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Parliament of Wallonia"
+        }
+      }
+    ]
+  }
+}

@@ -1,8 +1,2263 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_de", "name_fr", "name_nl", "name_en", "party", "party_name_de", "party_name_fr", "party_name_nl", "party_name_en", "district", "district_name_de", "district_name_fr", "district_name_nl", "district_name_en", "role", "role_de", "role_fr", "role_nl", "role_en", "role_superclass", "role_superclass_de", "role_superclass_fr", "role_superclass_nl", "role_superclass_en", "start", "end", "facebook", "org", "org_de", "org_fr", "org_nl", "org_en", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_de",
+      "name_fr",
+      "name_nl",
+      "name_en",
+      "party",
+      "party_name_de",
+      "party_name_fr",
+      "party_name_nl",
+      "party_name_en",
+      "district",
+      "district_name_de",
+      "district_name_fr",
+      "district_name_nl",
+      "district_name_en",
+      "role",
+      "role_de",
+      "role_fr",
+      "role_nl",
+      "role_en",
+      "role_superclass",
+      "role_superclass_de",
+      "role_superclass_fr",
+      "role_superclass_nl",
+      "role_superclass_en",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_de",
+      "org_fr",
+      "org_nl",
+      "org_en",
+      "org_jurisdiction",
+      "org_seat_count"
+    ]
   },
-  "results" : {
-    "bindings" : [ ]
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q15126937-69c822f7-4110-a5bd-e4f8-ae4b9dc5cfea"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15126937"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Jo De Ro"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jo De Ro"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Jo De Ro"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jo De Ro"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2013-01-09T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q15126994-dcd1c3f3-437f-f8af-a4f8-44640b8d44e7"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15126994"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Chris Janssens"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Chris Janssens"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Chris Janssens"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chris Janssens"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2009-06-07T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q15127115-ca01e3d9-4849-300d-c2df-fc717a846587"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15127115"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Egbert Lachaert"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Egbert Lachaert"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Egbert Lachaert"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Egbert Lachaert"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2013-09-25T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q15127146-04c8bb59-49d4-1e06-e333-03f38416360c"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15127146"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Marius Meremans"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Marius Meremans"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Marius Meremans"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marius Meremans"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2013-01-09T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q15127175-74b2dd47-4697-36b8-9e24-831d5a3a32be"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15127175"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Joke Quintens"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Joke Quintens"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Joke Quintens"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Joke Quintens"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2013-09-23T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q15127293-f8846bf5-4398-177e-c687-279e0e09261a"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15127293"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Björn Rzoska"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Björn Rzoska"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Björn Rzoska"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Björn Rzoska"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2013-01-09T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2234719-4cfcacd9-43f5-c033-8f58-2cc5772546ee"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2234719"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "John Crombez"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "John Crombez"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "John Crombez"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John Crombez"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2014-09-22T00:00:00Z"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-18T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2371057-df173734-4600-dd35-3442-85a1cbed2f90"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2371057"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Martine Fournier"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Martine Fournier"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Martine Fournier"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Martine Fournier"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2007-07-04T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2692897-7f35b34b-4de2-0539-0819-8480d81f54eb"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2692897"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Marc Hendrickx"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Marc Hendrickx"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Marc Hendrickx"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marc Hendrickx"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2009-06-07T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2701515-bb26de57-4beb-2396-1185-dfd3ba84c133"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2701515"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bart Tommelein"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bart Tommelein"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Bart Tommelein"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bart Tommelein"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2009-06-07T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2738899-94907138-4aa4-c6b7-00de-1bee2e464c7e"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2738899"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Guy D'haeseleer"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Guy D'haeseleer"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Guy D'haeseleer"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Guy D'haeseleer"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2014-05-25T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2759242-cbf5d76e-45de-0a3b-f441-28a137726703"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2759242"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Lode Ceyssens"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Lode Ceyssens"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Lode Ceyssens"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lode Ceyssens"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2009-01-07T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q28530505-6e13436a-48d7-7a7b-9679-f8cac9393648"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28530505"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Daniëlle Vanwesenbeeck"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Daniëlle Vanwesenbeeck"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Daniëlle Vanwesenbeeck"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Daniëlle Vanwesenbeeck"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-01-25T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3140213-3b1a2cf5-4057-1bce-6503-dfbc35dce822"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3140213"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Peter Van Rompuy"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Peter Van Rompuy"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Peter Van Rompuy"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Peter Van Rompuy"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-12-18T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3289954-3a670eb5-4683-0164-afc5-2ca6b927e226"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3289954"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Wilfried Vandaele"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Wilfried Vandaele"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Wilfried Vandaele"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wilfried Vandaele"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2009-07-13T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3497831-2998a0e5-4f81-e0c9-5ab6-583f90289a39"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3497831"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Stefaan Sintobin"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Stefaan Sintobin"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Stefaan Sintobin"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stefaan Sintobin"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2004-07-06T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q781578-841A2ECC-A0AD-416A-99FD-229327A2E935"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q781578"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Lieve Maes"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Lieve Maes"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Lieve Maes"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lieve Maes"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2014-05-25T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q951432-d01d8fa8-42b1-e8a9-2839-d7f755254499"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q951432"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Jan Peumans"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jan Peumans"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Jan Peumans"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jan Peumans"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2004-01-01T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "peumansjan"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/q951432-a4d44fd1-4f69-e3a1-b882-0ddf020e9958"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q951432"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Jan Peumans"
+        },
+        "name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jan Peumans"
+        },
+        "name_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Jan Peumans"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jan Peumans"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15105064"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Flämischen Parlaments"
+        },
+        "role_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député flamand"
+        },
+        "role_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlementslid"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Flemish Parliament"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "role_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "parlementaire"
+        },
+        "role_superclass_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "parlementslid"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2009-07-13T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "peumansjan"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1292"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Flämisches Parlament"
+        },
+        "org_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Parlement flamand"
+        },
+        "org_nl": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Vlaams Parlement"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flemish Parliament"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9331"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "124"
+        }
+      }
+    ]
   }
 }
