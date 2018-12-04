@@ -1,0 +1,84 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Charles Michel",
+        "lang:fr": "Charles Michel",
+        "lang:nl": "Charles Michel",
+        "lang:en": "Charles Michel"
+      },
+      "id": "Q950958",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q950958"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/MR.CharlesMichel"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Council of Ministers"
+      },
+      "id": "Q19601543",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19601543"
+        }
+      ],
+      "area_id": "Q31"
+    },
+    {
+      "name": {
+        "lang:de": "Mouvement Réformateur",
+        "lang:fr": "Mouvement réformateur",
+        "lang:nl": "Mouvement Réformateur",
+        "lang:en": "Reform Movement"
+      },
+      "id": "Q533384",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q533384"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q950958-d3c13140-4c11-6408-587c-c2cc36c65985",
+      "person_id": "Q950958",
+      "on_behalf_of_id": "Q533384",
+      "organization_id": "Q19601543",
+      "area_id": "Q31",
+      "start_date": "2014-10-11",
+      "role_superclass_code": "Q213107",
+      "role_superclass": {
+        "lang:de": "belgischer Premierminister",
+        "lang:fr": "Premier ministre de Belgique",
+        "lang:nl": "Premier van België",
+        "lang:en": "Prime Minister of Belgium"
+      },
+      "role_code": "Q213107",
+      "role": {
+        "lang:de": "belgischer Premierminister",
+        "lang:fr": "Premier ministre de Belgique",
+        "lang:nl": "Premier van België",
+        "lang:en": "Prime Minister of Belgium"
+      }
+    }
+  ]
+}

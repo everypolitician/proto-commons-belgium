@@ -257,6 +257,45 @@
     },
     {
       "name": {
+        "lang:de": "Bénédicte Linard",
+        "lang:fr": "Bénédicte Linard",
+        "lang:nl": "Bénédicte Linard",
+        "lang:en": "Bénédicte Linard"
+      },
+      "id": "Q16534673",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16534673"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/benedicte.linard"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Idès Cauchie",
+        "lang:fr": "Idès Cauchie",
+        "lang:nl": "Idès Cauchie",
+        "lang:en": "Idès Cauchie"
+      },
+      "id": "Q16643087",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16643087"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Marie-Thérèse Godinache-Lambert",
         "lang:fr": "Marie-Thérèse Godinache-Lambert",
         "lang:nl": "Marie-Thérèse Godinache-Lambert",
@@ -321,6 +360,24 @@
         {
           "scheme": "wikidata",
           "identifier": "Q17177437"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Dominique Cogels-Le Grelle",
+        "lang:fr": "Dominique Cogels-Le Grelle",
+        "lang:nl": "Dominique Cogels-Le Grelle",
+        "lang:en": "Dominique Cogels-Le Grelle"
+      },
+      "id": "Q17189984",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17189984"
         }
       ],
       "links": [
@@ -555,6 +612,24 @@
         {
           "scheme": "wikidata",
           "identifier": "Q17350856"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Charles Gardier",
+        "lang:fr": "Charles Gardier",
+        "lang:nl": "Charles Gardier",
+        "lang:en": "Charles Gardier"
+      },
+      "id": "Q17355270",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17355270"
         }
       ],
       "links": [
@@ -869,6 +944,24 @@
     },
     {
       "name": {
+        "lang:de": "André Bailly",
+        "lang:fr": "André Bailly",
+        "lang:nl": "André Bailly",
+        "lang:en": "André Bailly"
+      },
+      "id": "Q17485838",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17485838"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Jennifer Baltus-Möres",
         "lang:fr": "Jennifer Baltus-Möres",
         "lang:nl": "Jennifer Baltus-Möres",
@@ -897,6 +990,24 @@
         {
           "scheme": "wikidata",
           "identifier": "Q17485899"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Michel Deffet",
+        "lang:fr": "Michel Deffet",
+        "lang:nl": "Michel Deffet",
+        "lang:en": "Michel Deffet"
+      },
+      "id": "Q17485909",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17485909"
         }
       ],
       "links": [
@@ -959,6 +1070,24 @@
     },
     {
       "name": {
+        "lang:de": "Michel Filleul",
+        "lang:fr": "Michel Filleul",
+        "lang:nl": "Michel Filleul",
+        "lang:en": "Michel Filleul"
+      },
+      "id": "Q17485947",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17485947"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Déborah Géradon",
         "lang:fr": "Déborah Géradon",
         "lang:nl": "Déborah Géradon",
@@ -995,6 +1124,42 @@
     },
     {
       "name": {
+        "lang:de": "Raymond Hinnekens",
+        "lang:fr": "Raymond Hinnekens",
+        "lang:nl": "Raymond Hinnekens",
+        "lang:en": "Raymond Hinnekens"
+      },
+      "id": "Q17486001",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17486001"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jacques Hubert",
+        "lang:fr": "Jacques Hubert",
+        "lang:nl": "Jacques Hubert",
+        "lang:en": "Jacques Hubert"
+      },
+      "id": "Q17486006",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17486006"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Philippe Knaepen",
         "lang:fr": "Philippe Knaepen",
         "lang:nl": "Philippe Knaepen",
@@ -1023,6 +1188,258 @@
         {
           "scheme": "wikidata",
           "identifier": "Q17486065"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Léon Malisoux",
+        "lang:fr": "Léon Malisoux",
+        "lang:nl": "Léon Malisoux",
+        "lang:en": "Léon Malisoux"
+      },
+      "id": "Q17486085",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17486085"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Daniel Marchant",
+        "lang:fr": "Daniel Marchant",
+        "lang:nl": "Daniel Marchant",
+        "lang:en": "Daniel Marchant"
+      },
+      "id": "Q17486089",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17486089"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Pierre Fortez",
+        "lang:fr": "Pierre Fortez",
+        "lang:nl": "Pierre Fortez",
+        "lang:en": "Pierre Fortez"
+      },
+      "id": "Q17496926",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17496926"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Anne-Michèle Hannon",
+        "lang:fr": "Anne-Michèle Hannon",
+        "lang:nl": "Anne-Michèle Hannon",
+        "lang:en": "Anne-Michèle Hannon"
+      },
+      "id": "Q17496934",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17496934"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jean-Claude Hans",
+        "lang:fr": "Jean-Claude Hans",
+        "lang:nl": "Jean-Claude Hans",
+        "lang:en": "Jean-Claude Hans"
+      },
+      "id": "Q17496936",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17496936"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Claudy Huart",
+        "lang:fr": "Claudy Huart",
+        "lang:nl": "Claudy Huart",
+        "lang:en": "Claudy Huart"
+      },
+      "id": "Q17496942",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17496942"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Michel Huin",
+        "lang:fr": "Michel Huin",
+        "lang:nl": "Michel Huin",
+        "lang:en": "Michel Huin"
+      },
+      "id": "Q17496943",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17496943"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Michel Joiret",
+        "lang:fr": "Michel Joiret",
+        "lang:nl": "Michel Joiret",
+        "lang:en": "Michel Joiret"
+      },
+      "id": "Q17496950",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17496950"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Christian Massy",
+        "lang:fr": "Christian Massy",
+        "lang:nl": "Christian Massy",
+        "lang:en": "Christian Massy"
+      },
+      "id": "Q17496967",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17496967"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Gérard Mathieu",
+        "lang:fr": "Gérard Mathieu",
+        "lang:nl": "Gérard Mathieu",
+        "lang:en": "Gérard Mathieu"
+      },
+      "id": "Q17496968",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17496968"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Marc Melin",
+        "lang:fr": "Marc Melin",
+        "lang:nl": "Marc Melin",
+        "lang:en": "Marc Melin"
+      },
+      "id": "Q17496972",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17496972"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "André Namotte",
+        "lang:fr": "André Namotte",
+        "lang:nl": "André Namotte",
+        "lang:en": "André Namotte"
+      },
+      "id": "Q17496993",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17496993"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "André Navez",
+        "lang:fr": "André Navez",
+        "lang:nl": "André Navez",
+        "lang:en": "André Navez"
+      },
+      "id": "Q17496995",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17496995"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Alain Pieters",
+        "lang:fr": "Alain Pieters",
+        "lang:nl": "Alain Pieters",
+        "lang:en": "Alain Pieters"
+      },
+      "id": "Q17497019",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17497019"
         }
       ],
       "links": [
@@ -1070,6 +1487,60 @@
     },
     {
       "name": {
+        "lang:de": "Anne-Marie Salmon-Verbayst",
+        "lang:fr": "Anne-Marie Salmon-Verbayst",
+        "lang:nl": "Anne-Marie Salmon-Verbayst",
+        "lang:en": "Anne-Marie Salmon-Verbayst"
+      },
+      "id": "Q17497053",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17497053"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Annie Servais-Thysen",
+        "lang:fr": "Annie Servais-Thysen",
+        "lang:nl": "Annie Servais-Thysen",
+        "lang:en": "Annie Servais-Thysen"
+      },
+      "id": "Q17497060",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17497060"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Daniel Smeets",
+        "lang:fr": "Daniel Smeets",
+        "lang:nl": "Daniel Smeets",
+        "lang:en": "Daniel Smeets"
+      },
+      "id": "Q17497067",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17497067"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Cyrille Tahay",
         "lang:fr": "Cyrille Tahay",
         "lang:nl": "Cyrille Tahay",
@@ -1080,6 +1551,42 @@
         {
           "scheme": "wikidata",
           "identifier": "Q17497077"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Micheline Toussaint",
+        "lang:fr": "Micheline Toussaint",
+        "lang:nl": "Micheline Toussaint-Richardeau",
+        "lang:en": "Micheline Toussaint"
+      },
+      "id": "Q17497087",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17497087"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Alain Trussart",
+        "lang:fr": "Alain Trussart",
+        "lang:nl": "Alain Trussart",
+        "lang:en": "Alain Trussart"
+      },
+      "id": "Q17497089",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17497089"
         }
       ],
       "links": [
@@ -1142,6 +1649,24 @@
     },
     {
       "name": {
+        "lang:de": "Monique Vlaminck-Moreau",
+        "lang:fr": "Monique Vlaminck-Moreau",
+        "lang:nl": "Monique Vlaminck-Moreau",
+        "lang:en": "Monique Vlaminck-Moreau"
+      },
+      "id": "Q17497105",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17497105"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Véronique Waroux",
         "lang:fr": "Véronique Waroux",
         "lang:nl": "Véronique Waroux",
@@ -1152,6 +1677,96 @@
         {
           "scheme": "wikidata",
           "identifier": "Q17497107"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Raymond Willems",
+        "lang:fr": "Raymond Willems",
+        "lang:nl": "Raymond Willems",
+        "lang:en": "Raymond Willems"
+      },
+      "id": "Q17497110",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17497110"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Pierre Hardy",
+        "lang:fr": "Pierre Hardy",
+        "lang:nl": "Pierre Hardy",
+        "lang:en": "Pierre Hardy"
+      },
+      "id": "Q17580176",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17580176"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Isabelle Joiret",
+        "lang:fr": "Isabelle Joiret",
+        "lang:nl": "Isabelle Joiret",
+        "lang:en": "Isabelle Joiret"
+      },
+      "id": "Q17580293",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17580293"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Gérard Jaumain",
+        "lang:fr": "Gérard Jaumain",
+        "lang:nl": "Gérard Jaumain",
+        "lang:en": "Gérard Jaumain"
+      },
+      "id": "Q17629586",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17629586"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jean-Paul Bastin",
+        "lang:fr": "Jean-Paul Bastin",
+        "lang:nl": "Jean-Paul Bastin",
+        "lang:en": "Jean-Paul Bastin"
+      },
+      "id": "Q17630880",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17630880"
         }
       ],
       "links": [
@@ -1340,6 +1955,24 @@
     },
     {
       "name": {
+        "lang:de": "Christophe Dister",
+        "lang:fr": "Christophe Dister",
+        "lang:nl": "Christophe Dister",
+        "lang:en": "Christophe Dister"
+      },
+      "id": "Q19898773",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19898773"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Denis Mathen",
         "lang:fr": "Denis Mathen",
         "lang:nl": "Denis Mathen",
@@ -1368,6 +2001,24 @@
         {
           "scheme": "wikidata",
           "identifier": "Q2030961"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Patricia Potigny",
+        "lang:fr": "Patricia Potigny",
+        "lang:nl": "Patricia Potigny",
+        "lang:en": "Patricia Potigny"
+      },
+      "id": "Q21041517",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21041517"
         }
       ],
       "links": [
@@ -1502,6 +2153,24 @@
     },
     {
       "name": {
+        "lang:de": "Roland Marchal",
+        "lang:fr": "Roland Marchal",
+        "lang:nl": "Roland Marchal",
+        "lang:en": "Roland Marchal"
+      },
+      "id": "Q23830058",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23830058"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Nicole Maréchal",
         "lang:fr": "Nicole Maréchal",
         "lang:nl": "Nicole Maréchal",
@@ -1520,6 +2189,24 @@
     },
     {
       "name": {
+        "lang:de": "Pol Calet",
+        "lang:fr": "Pol Calet",
+        "lang:nl": "Pol Calet",
+        "lang:en": "Pol Calet"
+      },
+      "id": "Q2416406",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2416406"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Muriel Targnion",
         "lang:fr": "Muriel Targnion",
         "lang:nl": "Muriel Targnion",
@@ -1530,6 +2217,42 @@
         {
           "scheme": "wikidata",
           "identifier": "Q2421445"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Pascal Baurain",
+        "lang:fr": "Pascal Baurain",
+        "lang:nl": "Pascal Baurain",
+        "lang:en": "Pascal Baurain"
+      },
+      "id": "Q25094530",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25094530"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Isabelle Stommen",
+        "lang:fr": "Isabelle Stommen",
+        "lang:nl": "Isabelle Stommen",
+        "lang:en": "Isabelle Stommen"
+      },
+      "id": "Q25094531",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25094531"
         }
       ],
       "links": [
@@ -1602,6 +2325,24 @@
         {
           "scheme": "wikidata",
           "identifier": "Q2620108"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Paul Furlan",
+        "lang:fr": "paul Furlan",
+        "lang:nl": "Paul Furlan",
+        "lang:en": "Paul Furlan"
+      },
+      "id": "Q2657782",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2657782"
         }
       ],
       "links": [
@@ -1718,6 +2459,24 @@
     },
     {
       "name": {
+        "lang:de": "Alain Sadaune",
+        "lang:fr": "Alain Sadaune",
+        "lang:nl": "Alain Sadaune",
+        "lang:en": "Alain Sadaune"
+      },
+      "id": "Q2830251",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2830251"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Albert Gehlen",
         "lang:fr": "Albert Gehlen",
         "lang:nl": "Albert Gehlen",
@@ -1746,6 +2505,24 @@
         {
           "scheme": "wikidata",
           "identifier": "Q2835112"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Anne-Catherine Goffinet",
+        "lang:fr": "Anne-Catherine Goffinet",
+        "lang:nl": "Anne-Catherine Goffinet",
+        "lang:en": "Anne-Catherine Goffinet"
+      },
+      "id": "Q2850746",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2850746"
         }
       ],
       "links": [
@@ -1808,6 +2585,78 @@
     },
     {
       "name": {
+        "lang:de": "Antoine Tanzilli",
+        "lang:fr": "Antoine Tanzilli",
+        "lang:nl": "Antoine Tanzilli",
+        "lang:en": "Antoine Tanzilli"
+      },
+      "id": "Q2856752",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2856752"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Elmar Keutgen",
+        "lang:fr": "Elmar Keutgen",
+        "lang:nl": "Elmar Keutgen",
+        "lang:en": "Elmar Keutgen"
+      },
+      "id": "Q287280",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q287280"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Lyseline Louvigny",
+        "lang:fr": "Lyseline Louvigny",
+        "lang:nl": "Lyseline Louvigny",
+        "lang:en": "Lyseline Louvigny"
+      },
+      "id": "Q28802572",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28802572"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Eddy Fontaine",
+        "lang:fr": "Eddy Fontaine",
+        "lang:nl": "Eddy Fontaine",
+        "lang:en": "Eddy Fontaine"
+      },
+      "id": "Q28802636",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28802636"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Pierre Hazette",
         "lang:fr": "Pierre Hazette",
         "lang:nl": "Pierre Hazette",
@@ -1826,6 +2675,24 @@
     },
     {
       "name": {
+        "lang:de": "Benoît Langendries",
+        "lang:fr": "Benoît Langendries",
+        "lang:nl": "Benoît Langendries",
+        "lang:en": "Benoît Langendries"
+      },
+      "id": "Q2896562",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2896562"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Bernard Baille",
         "lang:fr": "Bernard Baille",
         "lang:nl": "Bernard Baille",
@@ -1836,6 +2703,24 @@
         {
           "scheme": "wikidata",
           "identifier": "Q2897475"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Brigitte Defalque",
+        "lang:fr": "Brigitte Defalque",
+        "lang:nl": "Brigitte Defalque",
+        "lang:en": "Brigitte Defalque"
+      },
+      "id": "Q2925416",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2925416"
         }
       ],
       "links": [
@@ -1872,6 +2757,24 @@
         {
           "scheme": "wikidata",
           "identifier": "Q2939974"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Catherine Houdart",
+        "lang:fr": "Catherine Houdart",
+        "lang:nl": "Catherine Houdart",
+        "lang:en": "Catherine Houdart"
+      },
+      "id": "Q2941949",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2941949"
         }
       ],
       "links": [
@@ -1970,6 +2873,24 @@
     },
     {
       "name": {
+        "lang:de": "Charles Pire",
+        "lang:fr": "Charles Pire",
+        "lang:nl": "Charles Pire",
+        "lang:en": "Charles Pire"
+      },
+      "id": "Q2960019",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2960019"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Christian Brotcorne",
         "lang:fr": "Christian Brotcorne",
         "lang:nl": "Christian Brotcorne",
@@ -1984,6 +2905,27 @@
       ],
       "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Christian Noiret",
+        "lang:fr": "Christian Noiret",
+        "lang:nl": "Christian Noiret",
+        "lang:en": "Christian Noiret"
+      },
+      "id": "Q2965504",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2965504"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/christian.noiret"
+        }
       ]
     },
     {
@@ -2024,6 +2966,24 @@
     },
     {
       "name": {
+        "lang:de": "Christine Servaes",
+        "lang:fr": "Christine Servaes",
+        "lang:nl": "Christine Servaes",
+        "lang:en": "Christine Servaes"
+      },
+      "id": "Q2965986",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2965986"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Christophe Collignon",
         "lang:fr": "Christophe Collignon",
         "lang:nl": "Christophe Collignon",
@@ -2034,6 +2994,60 @@
         {
           "scheme": "wikidata",
           "identifier": "Q2966163"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Claude Ancion",
+        "lang:fr": "Claude Ancion",
+        "lang:nl": "Claude Ancion",
+        "lang:en": "Claude Ancion"
+      },
+      "id": "Q2976875",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2976875"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Daniel Huygens",
+        "lang:fr": "Daniel Huygens",
+        "lang:nl": "Daniel Huygens",
+        "lang:en": "Daniel Huygens"
+      },
+      "id": "Q3014187",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3014187"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Daniel Josse",
+        "lang:fr": "Daniel Josse",
+        "lang:nl": "Daniel Josse",
+        "lang:en": "Daniel Josse"
+      },
+      "id": "Q3014224",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3014224"
         }
       ],
       "links": [
@@ -2096,6 +3110,22 @@
     },
     {
       "name": {
+        "lang:nl": "Fabian Culot",
+        "lang:en": "Fabian Culot"
+      },
+      "id": "Q30276291",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30276291"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Dimitri Fourny",
         "lang:fr": "Dimitri Fourny",
         "lang:nl": "Dimitri Fourny",
@@ -2142,6 +3172,24 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3048132"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Emmanuel Disabato",
+        "lang:fr": "Emmanuel Disabato",
+        "lang:nl": "Emmanuel Disabato",
+        "lang:en": "Emmanuel Disabato"
+      },
+      "id": "Q3052678",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3052678"
         }
       ],
       "links": [
@@ -2402,6 +3450,24 @@
     },
     {
       "name": {
+        "lang:de": "Herbert Grommes",
+        "lang:fr": "Herbert Grommes",
+        "lang:nl": "Herbert Grommes",
+        "lang:en": "Herbert Grommes"
+      },
+      "id": "Q3133453",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3133453"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Hugues Bayet",
         "lang:fr": "Hugues Bayet",
         "lang:nl": "Hugues Bayet",
@@ -2415,7 +3481,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/HuguesBayet"
+        }
       ]
     },
     {
@@ -2430,6 +3499,60 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3143147"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Ingrid Colicis",
+        "lang:fr": "Ingrid Colicis",
+        "lang:nl": "Ingrid Colicis",
+        "lang:en": "Ingrid Colicis"
+      },
+      "id": "Q3150968",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3150968"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Isabelle Lissens",
+        "lang:fr": "Isabelle Lissens",
+        "lang:nl": "Isabelle Lissens",
+        "lang:en": "Isabelle Lissens"
+      },
+      "id": "Q3154967",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3154967"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Isabelle Meerhaeghe",
+        "lang:fr": "Isabelle Meerhaeghe",
+        "lang:nl": "Isabelle Meerhaeghe",
+        "lang:en": "Isabelle Meerhaeghe"
+      },
+      "id": "Q3154980",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3154980"
         }
       ],
       "links": [
@@ -2528,6 +3651,24 @@
     },
     {
       "name": {
+        "lang:de": "Jean-Claude Meurens",
+        "lang:fr": "Jean-Claude Meurens",
+        "lang:nl": "Jean-Claude Meurens",
+        "lang:en": "Jean-Claude Meurens"
+      },
+      "id": "Q3165112",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3165112"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Jean-François Istasse",
         "lang:fr": "Jean-François Istasse",
         "lang:nl": "Jean-François Istasse",
@@ -2610,6 +3751,60 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3168714"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jean-Pierre Borbouse",
+        "lang:fr": "Jean-Pierre Borbouse",
+        "lang:nl": "Jean-Pierre Borbouse",
+        "lang:en": "Jean-Pierre Borbouse"
+      },
+      "id": "Q3169039",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3169039"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jean-Pierre Dardenne",
+        "lang:fr": "Jean-Pierre Dardenne",
+        "lang:nl": "Jean-Pierre Dardenne",
+        "lang:en": "Jean-Pierre Dardenne"
+      },
+      "id": "Q3169169",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3169169"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jean-Pierre Dauby",
+        "lang:fr": "Jean-Pierre Dauby",
+        "lang:nl": "Jean-Pierre Dauby",
+        "lang:en": "Jean-Pierre Dauby"
+      },
+      "id": "Q3169170",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3169170"
         }
       ],
       "links": [
@@ -2783,6 +3978,24 @@
     },
     {
       "name": {
+        "lang:de": "Luc Tiberghien",
+        "lang:fr": "Luc Tiberghien",
+        "lang:nl": "Luc Tiberghien",
+        "lang:en": "Luc Tiberghien"
+      },
+      "id": "Q3264923",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3264923"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Maggy Yerna",
         "lang:fr": "Maggy Yerna",
         "lang:nl": "Maggy Yerna",
@@ -2793,6 +4006,60 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3276815"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Malika Sonnet",
+        "lang:fr": "Malika Sonnet",
+        "lang:nl": "Malika Sonnet",
+        "lang:en": "Malika Sonnet"
+      },
+      "id": "Q3282094",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3282094"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Marc Barvais",
+        "lang:fr": "Marc Barvais",
+        "lang:nl": "Marc Barvais",
+        "lang:en": "Marc Barvais"
+      },
+      "id": "Q3287791",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3287791"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Marc Bolland",
+        "lang:fr": "Marc Bolland",
+        "lang:nl": "Marc Bolland",
+        "lang:en": "Marc Bolland"
+      },
+      "id": "Q3287824",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3287824"
         }
       ],
       "links": [
@@ -2855,6 +4122,24 @@
     },
     {
       "name": {
+        "lang:de": "Marc de Saint Moulin",
+        "lang:fr": "Marc de Saint Moulin",
+        "lang:nl": "Marc de Saint Moulin",
+        "lang:en": "Marc de Saint Moulin"
+      },
+      "id": "Q3288525",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3288525"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Marceau Mairesse",
         "lang:fr": "Marceau Mairesse",
         "lang:nl": "Marceau Mairesse",
@@ -2909,6 +4194,45 @@
     },
     {
       "name": {
+        "lang:de": "Marianne Saenen",
+        "lang:fr": "Marianne Saenen",
+        "lang:nl": "Marianne Saenen",
+        "lang:en": "Marianne Saenen"
+      },
+      "id": "Q3291319",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3291319"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/marianne.saenen"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Marie-Rose Cavalier-Bohon",
+        "lang:fr": "Marie-Rose Cavalier-Bohon",
+        "lang:nl": "Marie-Rose Cavalier-Bohon",
+        "lang:en": "Marie-Rose Cavalier-Bohon"
+      },
+      "id": "Q3292231",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3292231"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Matthieu Daele",
         "lang:fr": "Matthieu Daele",
         "lang:nl": "Matthieu Daele",
@@ -2919,6 +4243,24 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3299878"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Maurice Bodson",
+        "lang:fr": "Maurice Bodson",
+        "lang:nl": "Maurice Bodson",
+        "lang:en": "Maurice Bodson"
+      },
+      "id": "Q3300439",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3300439"
         }
       ],
       "links": [
@@ -3035,6 +4377,24 @@
     },
     {
       "name": {
+        "lang:de": "Monika Dethier-Neumann",
+        "lang:fr": "Monika Dethier-Neumann",
+        "lang:nl": "Monika Dethier-Neumann",
+        "lang:en": "Monika Dethier-Neumann"
+      },
+      "id": "Q3320754",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3320754"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Nicole Docq",
         "lang:fr": "Nicole Docq",
         "lang:nl": "Nicole Docq",
@@ -3071,6 +4431,60 @@
     },
     {
       "name": {
+        "lang:de": "Olivier Saint-Amand",
+        "lang:fr": "Olivier Saint-Amand",
+        "lang:nl": "Olivier Saint-Amand",
+        "lang:en": "Olivier Saint-Amand"
+      },
+      "id": "Q3351353",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3351353"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Patrick Avril",
+        "lang:fr": "Patrick Avril",
+        "lang:nl": "Patrick Avril",
+        "lang:en": "Patrick Avril"
+      },
+      "id": "Q3369197",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3369197"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Patrick Bioul",
+        "lang:fr": "Patrick Bioul",
+        "lang:nl": "Patrick Bioul",
+        "lang:en": "Patrick Bioul"
+      },
+      "id": "Q3369246",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3369246"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Paul-Olivier Delannois",
         "lang:fr": "Paul-Olivier Delannois",
         "lang:nl": "Paul-Olivier Delannois",
@@ -3089,6 +4503,24 @@
     },
     {
       "name": {
+        "lang:de": "Paul Ficheroulle",
+        "lang:fr": "Paul Ficheroulle",
+        "lang:nl": "Paul Ficheroulle",
+        "lang:en": "Paul Ficheroulle"
+      },
+      "id": "Q3371212",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3371212"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Paul Henrotin",
         "lang:fr": "Paul Henrotin",
         "lang:nl": "Paul Henrotin",
@@ -3099,6 +4531,24 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3371459"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Philippe Bracaval",
+        "lang:fr": "Philippe Bracaval",
+        "lang:nl": "Philippe Bracaval",
+        "lang:en": "Philippe Bracaval"
+      },
+      "id": "Q3379423",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3379423"
         }
       ],
       "links": [
@@ -3197,6 +4647,42 @@
     },
     {
       "name": {
+        "lang:de": "Pierre Boucher",
+        "lang:fr": "Pierre Boucher",
+        "lang:nl": "Pierre Boucher",
+        "lang:en": "Pierre Boucher"
+      },
+      "id": "Q3384105",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3384105"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Pierre Tachenion",
+        "lang:fr": "Pierre Tachenion",
+        "lang:nl": "Pierre Tachenion",
+        "lang:en": "Pierre Tachenion"
+      },
+      "id": "Q3387062",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3387062"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Pierre Tasset",
         "lang:fr": "Pierre Tasset",
         "lang:nl": "Pierre Tasset",
@@ -3207,6 +4693,24 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3387076"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Pierre Wacquier",
+        "lang:fr": "Pierre Wacquier",
+        "lang:nl": "Pierre Wacquier",
+        "lang:en": "Pierre Wacquier"
+      },
+      "id": "Q3387332",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3387332"
         }
       ],
       "links": [
@@ -3413,6 +4917,27 @@
     },
     {
       "name": {
+        "lang:de": "Veronica Cremasco",
+        "lang:fr": "Veronica Cremasco",
+        "lang:nl": "Veronica Cremasco",
+        "lang:en": "Veronica Cremasco"
+      },
+      "id": "Q3556029",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3556029"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/vercremasco"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Vicky Albert",
         "lang:fr": "Vicky Albert",
         "lang:nl": "Victor Albert",
@@ -3423,6 +4948,42 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3556958"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Virginie Gonzalez Moyano",
+        "lang:fr": "Virginie Gonzalez Moyano",
+        "lang:nl": "Virginie Gonzalez Moyano",
+        "lang:en": "Virginie Gonzalez Moyano"
+      },
+      "id": "Q3560736",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3560736"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Véronique Bidoul",
+        "lang:fr": "Véronique Bidoul",
+        "lang:nl": "Véronique Bidoul",
+        "lang:en": "Véronique Bidoul"
+      },
+      "id": "Q3564279",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3564279"
         }
       ],
       "links": [
@@ -3485,6 +5046,24 @@
     },
     {
       "name": {
+        "lang:de": "Xavier Desgain",
+        "lang:fr": "Xavier Desgain",
+        "lang:nl": "Xavier Desgain",
+        "lang:en": "Xavier Desgain"
+      },
+      "id": "Q3570655",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3570655"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Yves Binon",
         "lang:fr": "Yves Binon",
         "lang:nl": "Yves Binon",
@@ -3531,6 +5110,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3592229"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:nl": "Jordan Godfriaux",
+        "lang:en": "Jordan Godfriaux"
+      },
+      "id": "Q38258574",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38258574"
         }
       ],
       "links": [
@@ -3614,6 +5209,24 @@
     },
     {
       "name": {
+        "lang:de": "Jacques Gennen",
+        "lang:fr": "Jacques Gennen",
+        "lang:nl": "Jacques Gennen",
+        "lang:en": "Jacques Gennen"
+      },
+      "id": "Q580208",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q580208"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Serge Kubla",
         "lang:fr": "Serge Kubla",
         "lang:nl": "Serge Kubla",
@@ -3686,6 +5299,24 @@
     },
     {
       "name": {
+        "lang:de": "Monique Willocq",
+        "lang:fr": "Monique Willocq",
+        "lang:nl": "Monique Willocq",
+        "lang:en": "Monique Willocq"
+      },
+      "id": "Q778717",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q778717"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Charles Aubecq",
         "lang:fr": "Charles Aubecq",
         "lang:nl": "Charles Aubecq",
@@ -3724,7 +5355,7 @@
   "organizations": [
     {
       "name": {
-        "lang:de": "Parlament der Wallonie",
+        "lang:de": "Wallonisches Parlament",
         "lang:fr": "Parlement de Wallonie",
         "lang:nl": "Parlement van Wallonië",
         "lang:en": "Parliament of Wallonia"
@@ -4016,6 +5647,42 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16534673-6a50d402-eee5-4c07-bce3-73fefa09088c",
+      "person_id": "Q16534673",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16643087-a9d8ad12-f0e3-46c9-9efa-cee7863f48de",
+      "person_id": "Q16643087",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q17048038-C00AAD33-9E1B-4766-85E4-097BF5162034",
       "person_id": "Q17048038",
       "organization_id": "Q2449493",
@@ -4072,6 +5739,24 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q17177437-E0F6D984-BE90-41EF-9D32-2A48183E7F7A",
       "person_id": "Q17177437",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17189984-436fef73-1fe6-452f-8598-366ad5650a97",
+      "person_id": "Q17189984",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -4306,6 +5991,24 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q17350856-BFCAB247-B752-44CC-AA84-D21FB586DFA2",
       "person_id": "Q17350856",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17355270-8b0d6273-1487-45dc-895c-7ad99d890e65",
+      "person_id": "Q17355270",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -4628,6 +6331,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q17485838-19d87d22-5175-40a7-8262-7db4d16cddd1",
+      "person_id": "Q17485838",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q17485868-CBB21C64-0A8D-4486-83FE-12E7E634BBE8",
       "person_id": "Q17485868",
       "organization_id": "Q2449493",
@@ -4648,6 +6369,24 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q17485899-676E7365-C656-43CA-9C46-0C9ABA39AA2E",
       "person_id": "Q17485899",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17485909-637cc901-7065-4cc9-922b-28e0e6d7398c",
+      "person_id": "Q17485909",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -4718,6 +6457,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q17485947-58eb7225-cf56-4065-a489-8c3900ee5c2c",
+      "person_id": "Q17485947",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q17485965-241F40B3-5C7B-4BED-86F8-D3A67CE7E659",
       "person_id": "Q17485965",
       "organization_id": "Q2449493",
@@ -4754,6 +6511,42 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q17486001-eb8f1c47-369b-415e-9ce0-9adf798424d2",
+      "person_id": "Q17486001",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17486006-0d1177c2-7206-4fec-a65d-74a3a0a2cd19",
+      "person_id": "Q17486006",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q17486039-C5F6662D-A967-47C2-B77D-468573F48014",
       "person_id": "Q17486039",
       "organization_id": "Q2449493",
@@ -4774,6 +6567,258 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q17486065-4F01D3FF-0CAF-43C0-B394-8A4C8B642177",
       "person_id": "Q17486065",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17486085-e390699b-0aeb-4722-99ec-3adbcc6cc117",
+      "person_id": "Q17486085",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17486089-4bf593dc-6419-464b-9d9c-f37af4e3539a",
+      "person_id": "Q17486089",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17496926-25e255a4-e580-41e7-82e7-b8e38d8c08fc",
+      "person_id": "Q17496926",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17496934-4c2aa7c3-47b7-4293-9472-40d268f51a9d",
+      "person_id": "Q17496934",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17496936-d050eaf0-626d-41ea-a822-528ff3acb5db",
+      "person_id": "Q17496936",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17496942-29ab0370-5fed-4b83-a80b-0fabf55b41a3",
+      "person_id": "Q17496942",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17496943-321c381c-fdb5-47a7-87e5-5bfb09d25f41",
+      "person_id": "Q17496943",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17496950-38a0fa59-54a0-4ad2-b65f-93e582df32e9",
+      "person_id": "Q17496950",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17496967-851f1c23-8fba-40c8-ad7b-fe82c9c545c4",
+      "person_id": "Q17496967",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17496968-5405cd32-0d7d-4f0c-94ed-28a8b135b8fc",
+      "person_id": "Q17496968",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17496972-d5210f56-4baa-4fa3-af37-59f5a69eb7cd",
+      "person_id": "Q17496972",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17496993-c22c4922-ace2-4f69-93f4-95b9b3fe9a16",
+      "person_id": "Q17496993",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17496995-99af5523-65b9-44c7-9995-d56cba33f043",
+      "person_id": "Q17496995",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17497019-25f9faed-fece-4bdb-a2f2-d7811ba25404",
+      "person_id": "Q17497019",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -4827,8 +6872,98 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q17497053-77eefb0d-2fe9-4dae-896c-6ae7384db499",
+      "person_id": "Q17497053",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17497060-d74fe48b-8eff-4f71-b549-53898309f360",
+      "person_id": "Q17497060",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17497067-b2a9c609-87a4-4cce-ad2b-293cc12dfb8f",
+      "person_id": "Q17497067",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q17497077-53260a86-4ba6-9ef8-81bb-74a424bf27ad",
       "person_id": "Q17497077",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17497087-d56b95c0-e78b-4793-9918-b6c916658bf1",
+      "person_id": "Q17497087",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17497089-c5ff6186-5199-4b13-b168-7bc9a33ff3ca",
+      "person_id": "Q17497089",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -4899,8 +7034,116 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q17497105-0a76ab4c-984d-44f4-8f98-c0995c610662",
+      "person_id": "Q17497105",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q17497107-72A08B72-194C-467D-A983-910EB2981555",
       "person_id": "Q17497107",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17497110-e661b2f7-ac10-40bd-ad6f-b3614ef34ead",
+      "person_id": "Q17497110",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17580176-cbb81644-4ded-4237-9d93-4b419c83beff",
+      "person_id": "Q17580176",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17580293-c2600f48-6d1f-4902-937d-2638b6ff4e0a",
+      "person_id": "Q17580293",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17629586-ff7e6d6c-b33a-4612-ad23-86e24653214b",
+      "person_id": "Q17629586",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17630880-c2040547-260f-47d6-92d8-9a32e7afb69a",
+      "person_id": "Q17630880",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -5097,6 +7340,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q19898773-30f53702-045c-4db4-88a5-67883244e098",
+      "person_id": "Q19898773",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2027000-0DF39045-0061-4A38-9D3A-EF8EB81FEB28",
       "person_id": "Q2027000",
       "organization_id": "Q2449493",
@@ -5117,6 +7378,24 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2030961-04892412-9E3B-4BB1-8BB4-721F227F0485",
       "person_id": "Q2030961",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21041517-9930b619-c827-48ec-82e3-0e48aa589d9a",
+      "person_id": "Q21041517",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -5259,6 +7538,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23830058-9fc42150-7481-4563-a19f-06f191bf0ed6",
+      "person_id": "Q23830058",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2399632-37EFD2EB-2E9B-4A8A-B8C1-8424755F3A1E",
       "person_id": "Q2399632",
       "organization_id": "Q2449493",
@@ -5277,8 +7574,62 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2416406-2b0dbc82-5444-4ccc-a472-39ade4d7cc9b",
+      "person_id": "Q2416406",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2421445-C14F1C81-A387-40B6-A8F7-8D65DFDBC77C",
       "person_id": "Q2421445",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25094530-034076eb-9fdd-45fc-ab23-29ffedb3e04b",
+      "person_id": "Q25094530",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25094531-cb0ccfc2-2b67-49d6-a94e-5b38842c9dae",
+      "person_id": "Q25094531",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -5351,6 +7702,24 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2620108-72C06074-31F0-41C1-817B-C5E799414141",
       "person_id": "Q2620108",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2657782-6bfbe67b-2f48-4ae9-94f3-ee02e93277cd",
+      "person_id": "Q2657782",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -5475,6 +7844,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2830251-e6b2e45d-0510-4397-b3ee-2a521a0bb96a",
+      "person_id": "Q2830251",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2831196-50A7CA9D-765F-4B05-B392-C1324E342333",
       "person_id": "Q2831196",
       "organization_id": "Q2449493",
@@ -5495,6 +7882,24 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2835112-D530ADCF-FBFA-48DB-AE3A-9A74361E1872",
       "person_id": "Q2835112",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2850746-5eb36d77-c991-4e41-8e24-30e99078302e",
+      "person_id": "Q2850746",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -5566,6 +7971,78 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2856752-c45d26cf-801d-413b-9699-e604eabd30a1",
+      "person_id": "Q2856752",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q287280-591072be-85ac-412a-8731-55b508287cbd",
+      "person_id": "Q287280",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28802572-445e5723-b8d2-490c-826c-0cbfe20a4e8f",
+      "person_id": "Q28802572",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28802636-3e35e8a2-219f-4ae3-9755-72e28351c78f",
+      "person_id": "Q28802636",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2881113-C4362C6B-9C82-4759-B386-E44DF82334BB",
       "person_id": "Q2881113",
       "organization_id": "Q2449493",
@@ -5584,8 +8061,44 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2896562-0a7d8e5d-6330-4994-b1bf-f8930cca55b2",
+      "person_id": "Q2896562",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2897475-D29234CC-C208-419C-943B-CDAB97C13C97",
       "person_id": "Q2897475",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2925416-f74aba6f-343b-4b5b-bf5d-42d79564c00b",
+      "person_id": "Q2925416",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -5622,6 +8135,24 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2939974-D5AD00C1-AECA-44A0-9292-4547A08C44AE",
       "person_id": "Q2939974",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2941949-cb57c9d6-15b6-406d-a745-ff3e36df7cbf",
+      "person_id": "Q2941949",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -5728,8 +8259,44 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2960019-5659e886-485c-4e9b-89ff-1527a923a406",
+      "person_id": "Q2960019",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2965092-6E650694-A272-43B2-A494-89A281893E2A",
       "person_id": "Q2965092",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2965504-a74a4d54-139c-4238-92f9-987c1df4c088",
+      "person_id": "Q2965504",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -5782,8 +8349,80 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2965986-d3f17099-d3d7-47de-8805-43b09e429b24",
+      "person_id": "Q2965986",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2966163-BD291579-490B-4719-BEEE-E2888F788ED6",
       "person_id": "Q2966163",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2976875-e19e2426-512d-4097-bb09-4a08a718bf52",
+      "person_id": "Q2976875",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3014187-abe5cd99-9381-4408-96d0-114addbc48b2",
+      "person_id": "Q3014187",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3014224-b1ab0844-2d86-41ec-9176-ab474092fb25",
+      "person_id": "Q3014224",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -5854,6 +8493,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q30276291-284a749e-eefa-4696-b394-05540bf392af",
+      "person_id": "Q30276291",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3028115-484346AA-47A2-4928-8071-72109EE71FA0",
       "person_id": "Q3028115",
       "organization_id": "Q2449493",
@@ -5892,6 +8549,24 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3048132-9DC34095-4B6D-4961-AF93-29AFC80829EB",
       "person_id": "Q3048132",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3052678-88747524-ef18-4eae-b105-af600544bce3",
+      "person_id": "Q3052678",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -6160,6 +8835,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3133453-43c158f8-51c9-4e81-96d0-c9df02450fc7",
+      "person_id": "Q3133453",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3142509-35D6C9DA-3BD1-4BAD-8905-942B3B24BB37",
       "person_id": "Q3142509",
       "organization_id": "Q2449493",
@@ -6180,6 +8873,60 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3143147-9AEBCDE9-3FBE-42AA-AD83-42D754EFD985",
       "person_id": "Q3143147",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3150968-95f36268-bf4c-4457-bbb8-45eda8e6274f",
+      "person_id": "Q3150968",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3154967-986fb538-ca27-4828-a1b8-4815e4e6bf9a",
+      "person_id": "Q3154967",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3154980-5b39d096-06ea-4a10-a40d-74bb7829fbdf",
+      "person_id": "Q3154980",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -6287,6 +9034,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3165112-93e8e5b5-00e0-40b6-83f2-cc5a06cb6623",
+      "person_id": "Q3165112",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3165675-F6DE1B26-1773-4911-965B-0BA8ED7E1548",
       "person_id": "Q3165675",
       "organization_id": "Q2449493",
@@ -6361,6 +9126,60 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3168714-141957FC-E532-4BCC-B859-D5C360D511D6",
       "person_id": "Q3168714",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3169039-01ed6f78-e8a6-44c4-8966-2496b2566c52",
+      "person_id": "Q3169039",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3169169-52a5828e-3d41-44ab-aa90-60f27e350666",
+      "person_id": "Q3169169",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3169170-28a97aa3-4da1-45bb-a660-7e9cafa08aa3",
+      "person_id": "Q3169170",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -6539,8 +9358,80 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3264923-e438a478-42bb-4c29-bcbe-f310aaea4865",
+      "person_id": "Q3264923",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3276815-0E95D415-D9CE-4710-BCFB-1F93772A390D",
       "person_id": "Q3276815",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3282094-8324006a-fb79-4be8-ad45-7ad5f8e5c379",
+      "person_id": "Q3282094",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3287791-29f1304c-09a7-49f8-b8d9-973d9382bc79",
+      "person_id": "Q3287791",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3287824-291bf8ea-0e8e-4c9f-ae14-d6cdb785f759",
+      "person_id": "Q3287824",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -6611,6 +9502,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3288525-5a61da6b-64f3-4142-9999-319982097b13",
+      "person_id": "Q3288525",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3288582-D58B5A5D-41E5-4DC1-89E6-43939B1756AC",
       "person_id": "Q3288582",
       "organization_id": "Q2449493",
@@ -6665,8 +9574,62 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3291319-ab59360f-37b0-48a7-b9fc-a5737a4f40da",
+      "person_id": "Q3291319",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3292231-261bb61b-d7bb-40cc-899b-8b7359efb5ef",
+      "person_id": "Q3292231",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3299878-7006FE70-8ABF-487E-A560-DCDA643695A2",
       "person_id": "Q3299878",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3300439-53040a83-3c1a-4e05-8239-facef20da646",
+      "person_id": "Q3300439",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -6791,6 +9754,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3320754-f365bc59-431e-4a38-9777-8d2ddd76be64",
+      "person_id": "Q3320754",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3341034-fe653440-4058-87c7-11c7-c80838309d04",
       "person_id": "Q3341034",
       "organization_id": "Q2449493",
@@ -6827,6 +9808,60 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3351353-b994c8e1-1971-453e-94c4-8be7fa45f8fb",
+      "person_id": "Q3351353",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3369197-174ed9ce-fcb0-4761-b198-23b53e98fda2",
+      "person_id": "Q3369197",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3369246-e9412f25-98d2-4596-b848-2fb7a8af0f80",
+      "person_id": "Q3369246",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3370366-7108FAD4-7B85-4789-9AE0-A2D9C3C7BFC9",
       "person_id": "Q3370366",
       "organization_id": "Q2449493",
@@ -6845,8 +9880,44 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3371212-608e42b6-c3b1-40cc-b892-7af2614602a0",
+      "person_id": "Q3371212",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3371459-90B7A8D6-1E35-4E81-B3F8-400438A859F2",
       "person_id": "Q3371459",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3379423-5c04e299-a941-4ce3-9a29-df478a3137aa",
+      "person_id": "Q3379423",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -6953,8 +10024,62 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3384105-cb5a8c92-592d-46d6-8c40-934e2594397e",
+      "person_id": "Q3384105",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3387062-a3f85073-a8d8-4c26-a056-3ff8ac0c5287",
+      "person_id": "Q3387062",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3387076-5BBDB5AA-6CD8-46A1-8BF1-2FDAEC496509",
       "person_id": "Q3387076",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3387332-439b7912-08b4-4d39-ba79-c8332add582e",
+      "person_id": "Q3387332",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -7169,8 +10294,62 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3556029-7874d85e-8ee8-457f-b0ef-b6a8b1fd2fd9",
+      "person_id": "Q3556029",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3556958-8358E194-B629-41E0-8C30-A115A5D65624",
       "person_id": "Q3556958",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3560736-368b0d68-bee7-497b-8df5-9da04f7f5057",
+      "person_id": "Q3560736",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3564279-4ff10aed-181d-4b4d-bfc6-41e36dbf58a2",
+      "person_id": "Q3564279",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -7241,6 +10420,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3570655-8a836e33-6033-41c4-a595-c64bfc162919",
+      "person_id": "Q3570655",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3573486-92DCA043-5DAB-4875-9AA3-2D919CB3643C",
       "person_id": "Q3573486",
       "organization_id": "Q2449493",
@@ -7279,6 +10476,24 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3592229-2587FE52-2CD2-4088-AB33-4C0EC0992D38",
       "person_id": "Q3592229",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q38258574-ef993e06-1e37-4354-ae59-8624e977709a",
+      "person_id": "Q38258574",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -7367,6 +10582,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q580208-c7fb2750-e44b-41ba-bd0f-c9ec60e4f57f",
+      "person_id": "Q580208",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q586649-12A8A8CC-59A8-4A06-A45C-3CE3AEB8F226",
       "person_id": "Q586649",
       "organization_id": "Q2449493",
@@ -7426,6 +10659,24 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q732864-449E0F55-E9DB-4BE5-BA80-B571E43E095C",
       "person_id": "Q732864",
+      "organization_id": "Q2449493",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19351455",
+      "role": {
+        "lang:fr": "député wallon",
+        "lang:nl": "Waals Parlementslid",
+        "lang:en": "Member of the Parliament of Wallonia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q778717-0c6615de-9b79-4d03-a0a7-be6c49f7ae3a",
+      "person_id": "Q778717",
       "organization_id": "Q2449493",
       "role_superclass_code": "Q486839",
       "role_superclass": {

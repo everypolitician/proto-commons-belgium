@@ -4389,7 +4389,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/GuyVerhofstadt"
+        }
       ]
     },
     {
@@ -5199,7 +5202,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gerardeprez"
+        }
       ]
     },
     {
@@ -9303,7 +9309,7 @@
     },
     {
       "name": {
-        "lang:de": "Philippe",
+        "lang:de": "Philippe von Belgien",
         "lang:fr": "Philippe de Belgique",
         "lang:nl": "Filip van België",
         "lang:en": "Philippe of Belgium"
@@ -10485,24 +10491,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q15875045"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:de": "Ferdinand de Loën d'Enschedé",
-        "lang:fr": "Ferdinand de Loën d'Enschedé",
-        "lang:nl": "Ferdinand de Loën d'Enschedé",
-        "lang:en": "Ferdinand de Loën d'Enschedé"
-      },
-      "id": "Q15875208",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q15875208"
         }
       ],
       "links": [
@@ -22523,24 +22511,6 @@
     },
     {
       "name": {
-        "lang:de": "Ludo Monset",
-        "lang:fr": "Ludo Monset",
-        "lang:nl": "Ludo Monset",
-        "lang:en": "Ludo Monset"
-      },
-      "id": "Q2143439",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2143439"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:de": "Honoré Limpens",
         "lang:fr": "Honoré Limpens",
         "lang:nl": "Honoré Limpens",
@@ -28108,24 +28078,6 @@
     },
     {
       "name": {
-        "lang:de": "Alphonse de Rasse",
-        "lang:fr": "Alphonse de Rasse",
-        "lang:nl": "Alphonse de Rasse",
-        "lang:en": "Alphonse de Rasse"
-      },
-      "id": "Q2840021",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2840021"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:de": "Ghislain Vermassen",
         "lang:fr": "Ghislain Vermassen",
         "lang:nl": "Ghislain Vermassen",
@@ -29153,24 +29105,6 @@
     },
     {
       "name": {
-        "lang:de": "Christophe Lacroix",
-        "lang:fr": "Christophe Lacroix",
-        "lang:nl": "Christophe Lacroix",
-        "lang:en": "Christophe Lacroix"
-      },
-      "id": "Q2966321",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2966321"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:de": "Jozef Van Eetvelt",
         "lang:fr": "Jozef Van Eetvelt",
         "lang:nl": "Jozef Van Eetvelt",
@@ -29217,24 +29151,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q2977281"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:de": "Claudia Niessen",
-        "lang:fr": "Claudia Niessen",
-        "lang:nl": "Claudia Niessen",
-        "lang:en": "Claudia Niessen"
-      },
-      "id": "Q2978419",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2978419"
         }
       ],
       "links": [
@@ -29598,24 +29514,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3047763"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:de": "Edmond Whettnall",
-        "lang:fr": "Edmond Whettnall",
-        "lang:nl": "Edmond Whettnall",
-        "lang:en": "Edmond Whettnall"
-      },
-      "id": "Q3048015",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3048015"
         }
       ],
       "links": [
@@ -31622,24 +31520,6 @@
     },
     {
       "name": {
-        "lang:de": "Jean Barzin",
-        "lang:fr": "Jean Barzin",
-        "lang:nl": "Jean Barzin",
-        "lang:en": "Jean Barzin"
-      },
-      "id": "Q3170622",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3170622"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:de": "Jean Bock",
         "lang:fr": "Jean Bock",
         "lang:nl": "Jean Bock",
@@ -32028,24 +31908,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3185900"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:de": "Josy Dubié",
-        "lang:fr": "Josy Dubié",
-        "lang:nl": "Josy Dubié",
-        "lang:en": "Josy Dubié"
-      },
-      "id": "Q3186126",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3186126"
         }
       ],
       "links": [
@@ -35060,7 +34922,7 @@
         "lang:de": "Albert II.",
         "lang:fr": "Albert II de Belgique",
         "lang:nl": "Albert II van België",
-        "lang:en": "Albert II"
+        "lang:en": "Albert II of Belgium"
       },
       "id": "Q3911",
       "identifiers": [
@@ -35286,7 +35148,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/mariearenaPS"
+        }
       ]
     },
     {
@@ -48485,25 +48350,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q15875208-3668CE88-3F19-446D-9A69-F83887B5F3A4",
-      "person_id": "Q15875208",
-      "organization_id": "Q1355042",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "senator",
-        "lang:en": "senator"
-      },
-      "role_code": "Q17619252",
-      "role": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "Belgisch senator",
-        "lang:en": "Senator of Belgium"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q15875212-CE1A483D-9FDE-4905-8F43-71699FEEE11D",
       "person_id": "Q15875212",
       "organization_id": "Q1355042",
@@ -61329,25 +61175,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q2143439-E8D1F3F5-378A-4A40-8A86-497EFDFADC73",
-      "person_id": "Q2143439",
-      "organization_id": "Q1355042",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "senator",
-        "lang:en": "senator"
-      },
-      "role_code": "Q17619252",
-      "role": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "Belgisch senator",
-        "lang:en": "Senator of Belgium"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q2144908-5594F1D6-CC1B-458C-88A3-334AE0D3D16F",
       "person_id": "Q2144908",
       "organization_id": "Q1355042",
@@ -67239,25 +67066,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q2840021-7F5B0CE5-BA07-4A18-9DC5-6C8FC16F05BB",
-      "person_id": "Q2840021",
-      "organization_id": "Q1355042",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "senator",
-        "lang:en": "senator"
-      },
-      "role_code": "Q17619252",
-      "role": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "Belgisch senator",
-        "lang:en": "Senator of Belgium"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q2840181-5FC04CA4-9078-4C75-BF8A-87A5FBA7426E",
       "person_id": "Q2840181",
       "organization_id": "Q1355042",
@@ -68341,25 +68149,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q2966321-75DDFE4F-8737-4D76-B1BF-606809106231",
-      "person_id": "Q2966321",
-      "organization_id": "Q1355042",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "senator",
-        "lang:en": "senator"
-      },
-      "role_code": "Q17619252",
-      "role": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "Belgisch senator",
-        "lang:en": "Senator of Belgium"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q2966536-DAD4A23D-BF74-4EF7-9235-110590824863",
       "person_id": "Q2966536",
       "organization_id": "Q1355042",
@@ -68400,25 +68189,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2977281-76601D17-43F7-498D-A101-21409E7725DD",
       "person_id": "Q2977281",
-      "organization_id": "Q1355042",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "senator",
-        "lang:en": "senator"
-      },
-      "role_code": "Q17619252",
-      "role": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "Belgisch senator",
-        "lang:en": "Senator of Belgium"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q2978419-C2208DC3-87D5-4ECC-9B86-78F2BF6710DA",
-      "person_id": "Q2978419",
       "organization_id": "Q1355042",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
@@ -68799,25 +68569,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3047763-DFB7FD03-CDE7-4B15-A9A6-FA3194850B68",
       "person_id": "Q3047763",
-      "organization_id": "Q1355042",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "senator",
-        "lang:en": "senator"
-      },
-      "role_code": "Q17619252",
-      "role": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "Belgisch senator",
-        "lang:en": "Senator of Belgium"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q3048015-5E245244-9C47-44E9-8B8B-0451E087687E",
-      "person_id": "Q3048015",
       "organization_id": "Q1355042",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
@@ -70944,25 +70695,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3170622-896878CB-67C6-479C-868B-2E00602C6963",
-      "person_id": "Q3170622",
-      "organization_id": "Q1355042",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "senator",
-        "lang:en": "senator"
-      },
-      "role_code": "Q17619252",
-      "role": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "Belgisch senator",
-        "lang:en": "Senator of Belgium"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q3170807-21FEB8D3-5C3D-4AE0-9F91-0371EB3E01C9",
       "person_id": "Q3170807",
       "organization_id": "Q1355042",
@@ -71364,25 +71096,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3185900-EAF39601-F819-4679-9079-81A94137145C",
       "person_id": "Q3185900",
-      "organization_id": "Q1355042",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "senator",
-        "lang:en": "senator"
-      },
-      "role_code": "Q17619252",
-      "role": {
-        "lang:de": "Senator",
-        "lang:fr": "sénateur",
-        "lang:nl": "Belgisch senator",
-        "lang:en": "Senator of Belgium"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q3186126-360BED21-01BB-4E2F-A6A2-2F591704A7D0",
-      "person_id": "Q3186126",
       "organization_id": "Q1355042",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
