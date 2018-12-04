@@ -1,14 +1,739 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:de": "Jo De Ro",
+        "lang:fr": "Jo De Ro",
+        "lang:nl": "Jo De Ro",
+        "lang:en": "Jo De Ro"
+      },
+      "id": "Q15126937",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15126937"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Chris Janssens",
+        "lang:fr": "Chris Janssens",
+        "lang:nl": "Chris Janssens",
+        "lang:en": "Chris Janssens"
+      },
+      "id": "Q15126994",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15126994"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Egbert Lachaert",
+        "lang:fr": "Egbert Lachaert",
+        "lang:nl": "Egbert Lachaert",
+        "lang:en": "Egbert Lachaert"
+      },
+      "id": "Q15127115",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15127115"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Marius Meremans",
+        "lang:fr": "Marius Meremans",
+        "lang:nl": "Marius Meremans",
+        "lang:en": "Marius Meremans"
+      },
+      "id": "Q15127146",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15127146"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Joke Quintens",
+        "lang:fr": "Joke Quintens",
+        "lang:nl": "Joke Quintens",
+        "lang:en": "Joke Quintens"
+      },
+      "id": "Q15127175",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15127175"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Björn Rzoska",
+        "lang:fr": "Björn Rzoska",
+        "lang:nl": "Björn Rzoska",
+        "lang:en": "Björn Rzoska"
+      },
+      "id": "Q15127293",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15127293"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "John Crombez",
+        "lang:fr": "John Crombez",
+        "lang:nl": "John Crombez",
+        "lang:en": "John Crombez"
+      },
+      "id": "Q2234719",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2234719"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Martine Fournier",
+        "lang:fr": "Martine Fournier",
+        "lang:nl": "Martine Fournier",
+        "lang:en": "Martine Fournier"
+      },
+      "id": "Q2371057",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2371057"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Marc Hendrickx",
+        "lang:fr": "Marc Hendrickx",
+        "lang:nl": "Marc Hendrickx",
+        "lang:en": "Marc Hendrickx"
+      },
+      "id": "Q2692897",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2692897"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Bart Tommelein",
+        "lang:fr": "Bart Tommelein",
+        "lang:nl": "Bart Tommelein",
+        "lang:en": "Bart Tommelein"
+      },
+      "id": "Q2701515",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2701515"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Guy D'haeseleer",
+        "lang:fr": "Guy D'haeseleer",
+        "lang:nl": "Guy D'haeseleer",
+        "lang:en": "Guy D'haeseleer"
+      },
+      "id": "Q2738899",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2738899"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Lode Ceyssens",
+        "lang:fr": "Lode Ceyssens",
+        "lang:nl": "Lode Ceyssens",
+        "lang:en": "Lode Ceyssens"
+      },
+      "id": "Q2759242",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2759242"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Daniëlle Vanwesenbeeck",
+        "lang:fr": "Daniëlle Vanwesenbeeck",
+        "lang:nl": "Daniëlle Vanwesenbeeck",
+        "lang:en": "Daniëlle Vanwesenbeeck"
+      },
+      "id": "Q28530505",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28530505"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Peter Van Rompuy",
+        "lang:fr": "Peter Van Rompuy",
+        "lang:nl": "Peter Van Rompuy",
+        "lang:en": "Peter Van Rompuy"
+      },
+      "id": "Q3140213",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3140213"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Wilfried Vandaele",
+        "lang:fr": "Wilfried Vandaele",
+        "lang:nl": "Wilfried Vandaele",
+        "lang:en": "Wilfried Vandaele"
+      },
+      "id": "Q3289954",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3289954"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Stefaan Sintobin",
+        "lang:fr": "Stefaan Sintobin",
+        "lang:nl": "Stefaan Sintobin",
+        "lang:en": "Stefaan Sintobin"
+      },
+      "id": "Q3497831",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3497831"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Lieve Maes",
+        "lang:fr": "Lieve Maes",
+        "lang:nl": "Lieve Maes",
+        "lang:en": "Lieve Maes"
+      },
+      "id": "Q781578",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q781578"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jan Peumans",
+        "lang:fr": "Jan Peumans",
+        "lang:nl": "Jan Peumans",
+        "lang:en": "Jan Peumans"
+      },
+      "id": "Q951432",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q951432"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/peumansjan"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:de": "Flämisches Parlament",
+        "lang:fr": "Parlement flamand",
+        "lang:nl": "Vlaams Parlement",
+        "lang:en": "Flemish Parliament"
+      },
+      "id": "Q1292",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1292"
+        }
+      ],
+      "area_id": "Q234",
+      "seat_counts": {
+        "Q15105064": "124"
+      }
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15126937-69c822f7-4110-a5bd-e4f8-ae4b9dc5cfea",
+      "person_id": "Q15126937",
+      "organization_id": "Q1292",
+      "start_date": "2013-01-09",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15126994-dcd1c3f3-437f-f8af-a4f8-44640b8d44e7",
+      "person_id": "Q15126994",
+      "organization_id": "Q1292",
+      "start_date": "2009-06-07",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15127115-ca01e3d9-4849-300d-c2df-fc717a846587",
+      "person_id": "Q15127115",
+      "organization_id": "Q1292",
+      "start_date": "2013-09-25",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15127146-04c8bb59-49d4-1e06-e333-03f38416360c",
+      "person_id": "Q15127146",
+      "organization_id": "Q1292",
+      "start_date": "2013-01-09",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15127175-74b2dd47-4697-36b8-9e24-831d5a3a32be",
+      "person_id": "Q15127175",
+      "organization_id": "Q1292",
+      "start_date": "2013-09-23",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15127293-f8846bf5-4398-177e-c687-279e0e09261a",
+      "person_id": "Q15127293",
+      "organization_id": "Q1292",
+      "start_date": "2013-01-09",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2234719-4cfcacd9-43f5-c033-8f58-2cc5772546ee",
+      "person_id": "Q2234719",
+      "organization_id": "Q1292",
+      "start_date": "2014-09-22",
+      "end_date": "2015-06-18",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2371057-df173734-4600-dd35-3442-85a1cbed2f90",
+      "person_id": "Q2371057",
+      "organization_id": "Q1292",
+      "start_date": "2007-07-04",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2692897-7f35b34b-4de2-0539-0819-8480d81f54eb",
+      "person_id": "Q2692897",
+      "organization_id": "Q1292",
+      "start_date": "2009-06-07",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2701515-bb26de57-4beb-2396-1185-dfd3ba84c133",
+      "person_id": "Q2701515",
+      "organization_id": "Q1292",
+      "start_date": "2009-06-07",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2738899-94907138-4aa4-c6b7-00de-1bee2e464c7e",
+      "person_id": "Q2738899",
+      "organization_id": "Q1292",
+      "start_date": "2014-05-25",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2759242-cbf5d76e-45de-0a3b-f441-28a137726703",
+      "person_id": "Q2759242",
+      "organization_id": "Q1292",
+      "start_date": "2009-01-07",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28530505-6e13436a-48d7-7a7b-9679-f8cac9393648",
+      "person_id": "Q28530505",
+      "organization_id": "Q1292",
+      "start_date": "2017-01-25",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3140213-3b1a2cf5-4057-1bce-6503-dfbc35dce822",
+      "person_id": "Q3140213",
+      "organization_id": "Q1292",
+      "start_date": "2012-12-18",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3289954-3a670eb5-4683-0164-afc5-2ca6b927e226",
+      "person_id": "Q3289954",
+      "organization_id": "Q1292",
+      "start_date": "2009-07-13",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3497831-2998a0e5-4f81-e0c9-5ab6-583f90289a39",
+      "person_id": "Q3497831",
+      "organization_id": "Q1292",
+      "start_date": "2004-07-06",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q781578-841A2ECC-A0AD-416A-99FD-229327A2E935",
+      "person_id": "Q781578",
+      "organization_id": "Q1292",
+      "start_date": "2014-05-25",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q951432-d01d8fa8-42b1-e8a9-2839-d7f755254499",
+      "person_id": "Q951432",
+      "organization_id": "Q1292",
+      "start_date": "2004-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q951432-a4d44fd1-4f69-e3a1-b882-0ddf020e9958",
+      "person_id": "Q951432",
+      "organization_id": "Q1292",
+      "start_date": "2009-07-13",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15105064",
+      "role": {
+        "lang:de": "Mitglied des Flämischen Parlaments",
+        "lang:fr": "député flamand",
+        "lang:nl": "Vlaams Parlementslid",
+        "lang:en": "member of the Flemish Parliament"
+      }
+    }
   ]
 }

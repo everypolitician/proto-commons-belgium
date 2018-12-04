@@ -20,6 +20,24 @@
     },
     {
       "name": {
+        "lang:de": "Numa Ensch-Tesch",
+        "lang:fr": "Numa Ensch-Tesch",
+        "lang:nl": "Numa Ensch-Tesch",
+        "lang:en": "Numa Ensch-Tesch"
+      },
+      "id": "Q13104397",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13104397"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Filip Dewinter",
         "lang:fr": "Filip Dewinter",
         "lang:nl": "Filip Dewinter",
@@ -1800,6 +1818,24 @@
     },
     {
       "name": {
+        "lang:de": "Denis Ducarme",
+        "lang:fr": "Denis Ducarme",
+        "lang:nl": "Denis Ducarme",
+        "lang:en": "Denis Ducarme"
+      },
+      "id": "Q3022653",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3022653"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Dirk Van der Maelen",
         "lang:fr": "Dirk Van der Maelen",
         "lang:nl": "Dirk Van der Maelen",
@@ -2410,6 +2446,24 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3564292"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Zakia Khattabi",
+        "lang:fr": "Zakia Khattabi",
+        "lang:nl": "Zakia Khattabi",
+        "lang:en": "Zakia Khattabi"
+      },
+      "id": "Q3574660",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3574660"
         }
       ],
       "links": [
@@ -3046,6 +3100,26 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q13104397-19E9A9B9-1A0B-404F-B356-71E8BAC3A7EE",
+      "person_id": "Q13104397",
+      "organization_id": "Q1347545",
+      "start_date": "1885-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15705021",
+      "role": {
+        "lang:de": "Mitglied der belgischen Abgeordnetenkammer",
+        "lang:fr": "député",
+        "lang:nl": "lid van de Kamer van Volksvertegenwoordigers van België",
+        "lang:en": "member of the Chamber of Representatives of Belgium"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q1344265-BD116B5A-A6C4-417D-B572-94DB23EC5051",
       "person_id": "Q1344265",
       "on_behalf_of_id": "Q682990",
@@ -3241,6 +3315,26 @@
       "on_behalf_of_id": "Q645787",
       "organization_id": "Q1347545",
       "area_id": "Q1127",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15705021",
+      "role": {
+        "lang:de": "Mitglied der belgischen Abgeordnetenkammer",
+        "lang:fr": "député",
+        "lang:nl": "lid van de Kamer van Volksvertegenwoordigers van België",
+        "lang:en": "member of the Chamber of Representatives of Belgium"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1663490-5C303C3B-435D-4B4B-9E11-3D87CDD1009A",
+      "person_id": "Q1663490",
+      "organization_id": "Q1347545",
+      "start_date": "2003-01-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:de": "Abgeordneter",
@@ -3917,6 +4011,26 @@
       "on_behalf_of_id": "Q19850616",
       "organization_id": "Q1347545",
       "area_id": "Q1116",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15705021",
+      "role": {
+        "lang:de": "Mitglied der belgischen Abgeordnetenkammer",
+        "lang:fr": "député",
+        "lang:nl": "lid van de Kamer van Volksvertegenwoordigers van België",
+        "lang:en": "member of the Chamber of Representatives of Belgium"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1820692-9597d8cf-4606-62c5-2143-ad8d50d21bde",
+      "person_id": "Q1820692",
+      "organization_id": "Q1347545",
+      "start_date": "2007-01-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:de": "Abgeordneter",
@@ -5143,6 +5257,26 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3022653-B811E929-DD2D-4819-95C0-2A6A6356763E",
+      "person_id": "Q3022653",
+      "organization_id": "Q1347545",
+      "start_date": "2003-06-08",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15705021",
+      "role": {
+        "lang:de": "Mitglied der belgischen Abgeordnetenkammer",
+        "lang:fr": "député",
+        "lang:nl": "lid van de Kamer van Volksvertegenwoordigers van België",
+        "lang:en": "member of the Chamber of Representatives of Belgium"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3029701-8DAF4249-277A-4F5D-A46C-71A6ACFD42F7",
       "person_id": "Q3029701",
       "on_behalf_of_id": "Q939354",
@@ -5673,6 +5807,26 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3376731-a488aab0-43cc-eb30-a75c-6ad540de7979",
+      "person_id": "Q3376731",
+      "organization_id": "Q1347545",
+      "start_date": "2009-07-02",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15705021",
+      "role": {
+        "lang:de": "Mitglied der belgischen Abgeordnetenkammer",
+        "lang:fr": "député",
+        "lang:nl": "lid van de Kamer van Volksvertegenwoordigers van België",
+        "lang:en": "member of the Chamber of Representatives of Belgium"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3379933-F03F47EA-C5F9-474A-A78D-4793005CB428",
       "person_id": "Q3379933",
       "on_behalf_of_id": "Q533384",
@@ -5847,6 +6001,27 @@
       "on_behalf_of_id": "Q1470087",
       "organization_id": "Q1347545",
       "area_id": "Q90870",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:de": "Abgeordneter",
+        "lang:fr": "parlementaire",
+        "lang:nl": "parlementslid",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q15705021",
+      "role": {
+        "lang:de": "Mitglied der belgischen Abgeordnetenkammer",
+        "lang:fr": "député",
+        "lang:nl": "lid van de Kamer van Volksvertegenwoordigers van België",
+        "lang:en": "member of the Chamber of Representatives of Belgium"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3574660-da593d6b-4061-dfe6-9b8b-00edf4609aab",
+      "person_id": "Q3574660",
+      "organization_id": "Q1347545",
+      "start_date": "2014-01-01",
+      "end_date": "2015-01-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:de": "Abgeordneter",

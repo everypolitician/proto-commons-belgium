@@ -63341,6 +63341,25 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2363798-73f7f2bb-4e35-5a77-005c-a23926bdcc74",
+      "person_id": "Q2363798",
+      "organization_id": "Q1355042",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:de": "Senator",
+        "lang:fr": "sénateur",
+        "lang:nl": "senator",
+        "lang:en": "senator"
+      },
+      "role_code": "Q17619252",
+      "role": {
+        "lang:de": "Senator",
+        "lang:fr": "sénateur",
+        "lang:nl": "Belgisch senator",
+        "lang:en": "Senator of Belgium"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2363798-881E6CA0-7B1A-44F5-A7FE-FB3D5437AB82",
       "person_id": "Q2363798",
       "organization_id": "Q1355042",
@@ -63609,6 +63628,25 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2389786-D2021BE3-3A80-4C6B-A000-D84AF4C5B7F7",
       "person_id": "Q2389786",
+      "organization_id": "Q1355042",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:de": "Senator",
+        "lang:fr": "sénateur",
+        "lang:nl": "senator",
+        "lang:en": "senator"
+      },
+      "role_code": "Q17619252",
+      "role": {
+        "lang:de": "Senator",
+        "lang:fr": "sénateur",
+        "lang:nl": "Belgisch senator",
+        "lang:en": "Senator of Belgium"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2390845-1ffee8c4-48ea-4ced-d282-fda982be8f45",
+      "person_id": "Q2390845",
       "organization_id": "Q1355042",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
@@ -65374,6 +65412,25 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2620291-22b56ed4-4b64-de9e-3651-55dc63b21fca",
+      "person_id": "Q2620291",
+      "organization_id": "Q1355042",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:de": "Senator",
+        "lang:fr": "sénateur",
+        "lang:nl": "senator",
+        "lang:en": "senator"
+      },
+      "role_code": "Q17619252",
+      "role": {
+        "lang:de": "Senator",
+        "lang:fr": "sénateur",
+        "lang:nl": "Belgisch senator",
+        "lang:en": "Senator of Belgium"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2620446-1D2612DA-5055-4C6E-806F-42340B2EBF94",
       "person_id": "Q2620446",
       "organization_id": "Q1355042",
@@ -66554,6 +66611,25 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2792887-E2350CC1-2730-4FB5-9FA9-D7002521E077",
       "person_id": "Q2792887",
+      "organization_id": "Q1355042",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:de": "Senator",
+        "lang:fr": "sénateur",
+        "lang:nl": "senator",
+        "lang:en": "senator"
+      },
+      "role_code": "Q17619252",
+      "role": {
+        "lang:de": "Senator",
+        "lang:fr": "sénateur",
+        "lang:nl": "Belgisch senator",
+        "lang:en": "Senator of Belgium"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2792972-352a7d88-4b09-359d-0461-0280c0d37220",
+      "person_id": "Q2792972",
       "organization_id": "Q1355042",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
@@ -71265,6 +71341,25 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3193227-DDF8EBDF-0259-407E-A7C6-F72C7C8A3D9F",
+      "person_id": "Q3193227",
+      "organization_id": "Q1355042",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:de": "Senator",
+        "lang:fr": "sénateur",
+        "lang:nl": "senator",
+        "lang:en": "senator"
+      },
+      "role_code": "Q17619252",
+      "role": {
+        "lang:de": "Senator",
+        "lang:fr": "sénateur",
+        "lang:nl": "Belgisch senator",
+        "lang:en": "Senator of Belgium"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3216643-15DB46E9-A180-4467-97F5-2B71BAC25969",
       "person_id": "Q3216643",
       "organization_id": "Q1355042",
@@ -71819,6 +71914,26 @@
       "id": "http://www.wikidata.org/entity/statement/Q3288852-3DDFA09D-4044-4DF3-9551-17D8AF9A4F8C",
       "person_id": "Q3288852",
       "organization_id": "Q1355042",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:de": "Senator",
+        "lang:fr": "sénateur",
+        "lang:nl": "senator",
+        "lang:en": "senator"
+      },
+      "role_code": "Q17619252",
+      "role": {
+        "lang:de": "Senator",
+        "lang:fr": "sénateur",
+        "lang:nl": "Belgisch senator",
+        "lang:en": "Senator of Belgium"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3289954-1cddb613-48a9-fda6-303a-6015ddd63eab",
+      "person_id": "Q3289954",
+      "organization_id": "Q1355042",
+      "start_date": "2013-01-10",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:de": "Senator",

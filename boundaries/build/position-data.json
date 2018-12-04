@@ -1,0 +1,101 @@
+[
+  {
+    "role_id": "Q15105064",
+    "role_name": {
+      "lang:de": "Mitglied des Flämischen Parlaments",
+      "lang:fr": "député flamand",
+      "lang:nl": "Vlaams Parlementslid",
+      "lang:en": "member of the Flemish Parliament"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:de": "Abgeordneter",
+      "lang:fr": "parlementaire",
+      "lang:nl": "parlementslid",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q1292",
+    "organization_name": {
+      "lang:de": "Flämisches Parlament",
+      "lang:fr": "Parlement flamand",
+      "lang:nl": "Vlaams Parlement",
+      "lang:en": "Flemish Parliament"
+    }
+  },
+  {
+    "role_id": "Q15705021",
+    "role_name": {
+      "lang:de": "Mitglied der belgischen Abgeordnetenkammer",
+      "lang:fr": "député",
+      "lang:nl": "lid van de Kamer van Volksvertegenwoordigers van België",
+      "lang:en": "member of the Chamber of Representatives of Belgium"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:de": "Abgeordneter",
+      "lang:fr": "parlementaire",
+      "lang:nl": "parlementslid",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q1347545",
+    "organization_name": {
+      "lang:de": "Belgische Abgeordnetenkammer",
+      "lang:fr": "Chambre des représentants",
+      "lang:nl": "Kamer van Volksvertegenwoordigers",
+      "lang:en": "Chamber of Representatives"
+    }
+  },
+  {
+    "role_id": "Q17619252",
+    "role_name": {
+      "lang:de": "Senator",
+      "lang:fr": "sénateur",
+      "lang:nl": "Belgisch senator",
+      "lang:en": "Senator of Belgium"
+    },
+    "generic_role_id": "Q15686806",
+    "generic_role_name": {
+      "lang:de": "Senator",
+      "lang:fr": "sénateur",
+      "lang:nl": "senator",
+      "lang:en": "senator"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q1355042",
+    "organization_name": {
+      "lang:de": "Senat",
+      "lang:fr": "Sénat",
+      "lang:nl": "Belgische Senaat",
+      "lang:en": "Belgian Senate"
+    }
+  },
+  {
+    "role_id": "Q19351455",
+    "role_name": {
+      "lang:fr": "député wallon",
+      "lang:nl": "Waals Parlementslid",
+      "lang:en": "Member of the Parliament of Wallonia"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:de": "Abgeordneter",
+      "lang:fr": "parlementaire",
+      "lang:nl": "parlementslid",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q2449493",
+    "organization_name": {
+      "lang:de": "Wallonisches Parlament",
+      "lang:fr": "Parlement de Wallonie",
+      "lang:nl": "Parlement van Wallonië",
+      "lang:en": "Parliament of Wallonia"
+    }
+  }
+]

@@ -65,12 +65,12 @@
       "organization_id": "Q19601543",
       "area_id": "Q31",
       "start_date": "2014-10-11",
-      "role_superclass_code": "Q213107",
+      "role_superclass_code": "Q14212",
       "role_superclass": {
-        "lang:de": "belgischer Premierminister",
-        "lang:fr": "Premier ministre de Belgique",
-        "lang:nl": "Premier van België",
-        "lang:en": "Prime Minister of Belgium"
+        "lang:de": "Premierminister",
+        "lang:fr": "Premier ministre",
+        "lang:nl": "premier",
+        "lang:en": "prime minister"
       },
       "role_code": "Q213107",
       "role": {
