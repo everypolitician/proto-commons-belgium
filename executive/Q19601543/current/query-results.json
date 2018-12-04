@@ -1,0 +1,155 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_de", "name_fr", "name_nl", "name_en", "party", "party_name_de", "party_name_fr", "party_name_nl", "party_name_en", "district", "district_name_de", "district_name_fr", "district_name_nl", "district_name_en", "role", "role_de", "role_fr", "role_nl", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_de", "role_superclass_fr", "role_superclass_nl", "role_superclass_en", "org", "org_de", "org_fr", "org_nl", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q533384"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Reform Movement"
+      },
+      "party_name_nl" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Mouvement Réformateur"
+      },
+      "party_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Mouvement réformateur"
+      },
+      "party_name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mouvement Réformateur"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q950958"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belgium"
+      },
+      "district_name_nl" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "België"
+      },
+      "district_name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Belgique"
+      },
+      "district_name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Belgien"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213107"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213107"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Belgium"
+      },
+      "role_superclass_nl" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Premier van België"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Premier ministre de Belgique"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "belgischer Premierminister"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Belgium"
+      },
+      "role_nl" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Premier van België"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Premier ministre de Belgique"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "belgischer Premierminister"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles Michel"
+      },
+      "name_nl" : {
+        "xml:lang" : "nl",
+        "type" : "literal",
+        "value" : "Charles Michel"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Charles Michel"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Charles Michel"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19601543"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q950958-d3c13140-4c11-6408-587c-c2cc36c65985"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-10-11T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "MR.CharlesMichel"
+      }
+    } ]
+  }
+}
